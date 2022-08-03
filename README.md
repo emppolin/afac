@@ -4,3 +4,4 @@ More changes
 Second edit in GitHub
 New local edit
 Third edit on line
+Edited locally again
